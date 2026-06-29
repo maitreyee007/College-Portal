@@ -10,8 +10,8 @@ College-Management-System/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-└── images/
+└── README.md
+ 
 
 If the images folder does not exist, create it automatically. Use free placeholder images from Picsum Photos, Placehold.co, or Unsplash until real images are available.
 
